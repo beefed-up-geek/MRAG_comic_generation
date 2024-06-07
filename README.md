@@ -1,5 +1,5 @@
 # MRAG_comic_generation
-
+만화생성 인공지능 파이프라인
 
 ---
 
